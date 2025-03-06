@@ -1,0 +1,8 @@
+2025-02-09 16:30:34,788 - INFO - Pulling required Ollama models...
+2025-02-09 16:30:34,867 - ERROR - Error pulling model llama3.2-vision: [?25lpulling manifest [?25h
+Error: pull model manifest: Get "https://registry.ollama.ai/v2/library/llama3.2-vision/manifests/latest": dial tcp: lookup registry.ollama.ai on 127.0.0.53:53: server misbehaving
+
+2025-02-09 16:30:34,912 - ERROR - Error pulling model nomic-embed-text: [?25lpulling manifest [?25h
+Error: pull model manifest: Get "https://registry.ollama.ai/v2/library/nomic-embed-text/manifests/latest": dial tcp: lookup registry.ollama.ai on 127.0.0.53:53: server misbehaving
+
+2025-02-09 16:30:34,913 - INFO - Session ended

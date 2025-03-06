@@ -1,0 +1,13 @@
+2025-02-09 16:38:14,154 - INFO - Pulling required Ollama models...
+2025-02-09 16:38:24,292 - INFO - Successfully pulled all required models
+2025-02-09 16:38:24,300 - INFO - Models initialized successfully
+2025-02-09 16:38:37,373 - INFO - Processing directory: /home/ruvais/Desktop/llama_RAG/test
+2025-02-09 16:38:37,390 - INFO - Processing CSV File: customers-100(1).csv
+2025-02-09 16:38:37,394 - INFO - Columns: Index, Customer Id, First Name, Last Name, Company, City, Country, Phone 1, Phone 2, Email, Subscription Date, Website
+2025-02-09 16:38:37,408 - INFO - Processed 100 rows from customers-100(1).csv
+2025-02-09 16:38:37,408 - INFO - Splitting documents into chunks...
+2025-02-09 16:38:37,411 - INFO - Created 100 chunks from 100 documents
+2025-02-09 16:38:37,411 - INFO - Loading existing FAISS index...
+2025-02-09 16:38:37,413 - INFO - Loading faiss with AVX2 support.
+2025-02-09 16:38:37,429 - INFO - Successfully loaded faiss with AVX2 support.
+2025-02-09 16:46:42,943 - INFO - Session ended
