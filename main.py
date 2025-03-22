@@ -9,7 +9,7 @@ class TabbedApplication(ctk.CTk):
         super().__init__()
         
         # Configure window
-        self.title("Tabbed Application")
+        self.title("IParse")
         self.geometry("1200x1000")
         
         # Create and configure grid layout
